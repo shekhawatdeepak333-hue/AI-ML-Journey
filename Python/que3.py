@@ -1,3 +1,4 @@
+#Abstraction question
 from abc import ABC, abstractmethod
 
 class Employee(ABC):
